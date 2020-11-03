@@ -1,0 +1,28 @@
+div {
+  color: rgb(61, 158, 5);  
+ 
+  text-align: center;
+  width: 300px; height: 200px;
+  ;
+  border: 1px solid orangered;
+}
+.div0{
+  margin-left: 350px;
+}
+.div1 {
+  margin-left: 650px; margin-top: -202px;
+}
+.div2 { 
+  margin-left: 200px; 
+}
+.div3 {
+  margin-left: 500px; margin-top: -202px;
+}
+
+.div4 {
+  margin-left: 800px; margin-top: -202px;
+}
+
+.div5 {
+  margin-left: 500px; height: 150px;
+}
